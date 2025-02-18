@@ -4,8 +4,5 @@ import javax.swing.*;
 
 public class IntegrationService {
 
-    public void teste() {
-        JOptionPane.showMessageDialog(null,"Arrepiando nos códigos");
-    }
 
 }

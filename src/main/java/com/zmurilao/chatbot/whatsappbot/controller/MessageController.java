@@ -1,11 +1,13 @@
 package com.zmurilao.chatbot.whatsappbot.controller;
 
-import javax.swing.*;
+
+import jakarta.persistence.Entity;
+
+import java.time.LocalDateTime;
+
 
 public class MessageController {
 
-    public void teste() {
-        JOptionPane.showMessageDialog(null,"Arrepiando nos códigos");
-    }
+
 
 }
